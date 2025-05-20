@@ -11,7 +11,7 @@ Este projeto foi desenvolvido como parte do checkpoint para a aplicação de Fle
 - **Transformações CSS**: `scale` para aumentar o tamanho do card e `box-shadow` para dar um efeito de profundidade quando o card é hoverado.
 
 ## Desenvolvedor
-Nome: [Seu Nome Completo]
+Nome: Piettra Boschini Sattolo
 
 ## Links:
 - [Repositório GitHub](https://github.com/piettrasattolo/cp03-front.git)
